@@ -33,7 +33,7 @@ function App() {
 
 
   return (
-    <div className="col-md-12">
+    <div className="col-md-12 main">
       <div className="weatherBg">
         <h1 className="heading">Weather App</h1>
 
